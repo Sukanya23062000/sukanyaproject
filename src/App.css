@@ -1,0 +1,23 @@
+table
+{
+    border: 2px solid red;
+    height: 200px;
+    width: 600px;
+    cursor: pointer;
+}
+
+th
+{
+    border-bottom: 2px solid black;
+}
+
+td
+{
+    text-align: center;
+}
+
+td:hover
+{
+    color: white;
+    background-color: goldenrod;
+}

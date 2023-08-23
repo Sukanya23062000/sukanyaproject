@@ -1,0 +1,66 @@
+.leftbar
+{
+    flex: 3;
+    height: calc(1000vh - 50px);
+    overflow-y: scroll;
+}
+
+.leftbarWrapper
+{
+    padding: 20px;
+}
+
+.leftbarList
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.leftbarListItems
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.leftbarIcon
+{
+    margin-right: 15px;
+}
+
+.leftbarButton
+{
+    width: 150px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.leftbarhr
+{
+    margin: 20px 0;
+}
+
+.leftbarFriendList
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.leftbarFriend
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.leftbarFriendImg
+{
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    margin-right: 50px;
+}
